@@ -136,6 +136,7 @@ AddOutputFilter chunkFilter
 		<Item Name="Input Selection Control.ctl" Type="VI" URL="../Input Selection Control.ctl"/>
 		<Item Name="Main control.ctl" Type="VI" URL="../Main control.ctl"/>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
+		<Item Name="PID_Control.ctl" Type="VI" URL="../../SubVi/PID_Control.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="BuildHelpPath.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/BuildHelpPath.vi"/>
@@ -265,6 +266,8 @@ AddOutputFilter chunkFilter
 				<Item Name="Named Mutex.ctl" Type="VI" URL="/&lt;vilib&gt;/myRIO/Common/Instrument Driver Framework/Utilities/typedefs/Named Mutex.ctl"/>
 				<Item Name="NI_PID__prctrl compat.lvlib" Type="Library" URL="/&lt;vilib&gt;/addons/control/pid/NI_PID__prctrl compat.lvlib"/>
 				<Item Name="NI_PID_pid.lvlib" Type="Library" URL="/&lt;vilib&gt;/addons/control/pid/NI_PID_pid.lvlib"/>
+				<Item Name="niLvFpga_Open_ELVIS RIO CM.vi" Type="VI" URL="/&lt;vilib&gt;/FPGAPlugInAG/ELVIS RIO CM/niLvFpga_Open_ELVIS RIO CM.vi"/>
+				<Item Name="niLvFpga_Open_roboRIO.vi" Type="VI" URL="/&lt;vilib&gt;/FPGAPlugInAG/roboRIO/niLvFpga_Open_roboRIO.vi"/>
 				<Item Name="Not Found Dialog.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Not Found Dialog.vi"/>
 				<Item Name="PWM Channels Enum.ctl" Type="VI" URL="/&lt;vilib&gt;/myRIO/Common/Instrument Driver Framework/myRIO v1.0/PWM/typedefs/PWM Channels Enum.ctl"/>
 				<Item Name="PWM Channels FPGA Reference.ctl" Type="VI" URL="/&lt;vilib&gt;/myRIO/Common/Instrument Driver Framework/myRIO v1.0/PWM/typedefs/PWM Channels FPGA Reference.ctl"/>
