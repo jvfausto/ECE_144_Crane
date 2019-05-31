@@ -136,6 +136,7 @@ AddOutputFilter chunkFilter
 		<Item Name="Input Selection Control.ctl" Type="VI" URL="../Input Selection Control.ctl"/>
 		<Item Name="Main control.ctl" Type="VI" URL="../Main control.ctl"/>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
+		<Item Name="PID_Control.ctl" Type="VI" URL="../../SubVi/PID_Control.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="BuildHelpPath.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/BuildHelpPath.vi"/>
